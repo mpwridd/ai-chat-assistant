@@ -1,3 +1,11 @@
+# AI Agent App - Powered by Mimo v2.5 Pro
+
+## Dashboard Preview
+
+![Dashboard](screenshot.png)
+
+---
+
 # AI Chat Assistant
 
 A beautiful, production-ready AI chat application built with Next.js 14, TypeScript, and Tailwind CSS. Powered by the Mimo v2.5 Pro API.
